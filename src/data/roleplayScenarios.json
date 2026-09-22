@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "studentName": "Trinh Lan",
+    "category": "Cắt giảm lộ trình",
+    "title": "Hủy lộ trình TC2",
+    "description": "Học viên Trinh Lan đã đăng ký lộ trình Trung cấp 1+2. Nhưng hôm nay bạn ấy nhắn tin muốn dừng ở Trung cấp 1 vì chỉ cần giao tiếp cơ bản ở công ty, không thi TOPIK. Yêu cầu Sale dùng kỹ năng xử lý từ chối để giữ học viên học tiếp.",
+    "initialMessage": "Bạn ơi mình đã đăng kí trung cấp 1 và 2, nhưng mục tiêu của mình là chỉ giao tiếp ở công ty không thi TOPIK nên chắc là mình sẽ dừng ở trung cấp 1 thôi. Nếu mình muốn hủy khóa học trung cấp 2 thì học phí tính thế nào?"
+  },
+  {
+    "id": 2,
+    "studentName": "Hoàng Anh",
+    "category": "Từ chối vì giá",
+    "title": "Chê học phí cao",
+    "description": "Học viên hỏi lộ trình Sơ cấp 1+2, nhưng chê học phí cao hơn bên trung tâm khác 500k và đòi giảm giá thêm mới đăng ký.",
+    "initialMessage": "Mình thấy bên trung tâm X đang thu lộ trình SC 1+2 rẻ hơn bên bạn tận 500k mà cũng cam kết đầu ra tương tự. Bên bạn có chính sách giảm giá thêm không thì mình mới học được."
+  },
+  {
+    "id": 3,
+    "studentName": "Hương Ly",
+    "category": "Thời gian",
+    "title": "Trùng lịch học trên trường",
+    "description": "Hương Ly là sinh viên năm 2. Đã cọc giữ chỗ nhưng nay nhắn lại xin rút cọc vì bị đổi lịch học trên trường đại học, trùng đúng vào thứ 3, 5 hàng tuần.",
+    "initialMessage": "Chị ơi, em xin lỗi nhưng tuần sau trường em đổi lịch học trùng đúng vào tối 3-5-7 của lớp tiếng Hàn rồi. Chắc em không học được nữa, chị cho em xin lại tiền cọc nhé ạ."
+  },
+  {
+    "id": 4,
+    "studentName": "Minh Khang",
+    "category": "Động lực học",
+    "title": "Sợ không theo kịp",
+    "description": "Khách hàng Minh Khang đang làm IT, muốn học để đi onsite Hàn nhưng sợ bận OT nhiều sẽ không theo kịp lớp offline. Yêu cầu Sale tư vấn tạo động lực và cam kết hỗ trợ.",
+    "initialMessage": "Đặc thù công việc IT của mình hay phải OT đột xuất buổi tối. Mình sợ đóng tiền rồi học không theo kịp mọi người phí tiền lắm. Có cách nào hỗ trợ người bận rộn như mình không?"
+  },
+  {
+    "id": 5,
+    "studentName": "Mai Phương",
+    "category": "Đổi hình thức",
+    "title": "Muốn học Online 100%",
+    "description": "Mai Phương đang tham khảo khóa Offline nhưng nhà quá xa (cách 15km). Phương muốn chuyển sang Online 100% nhưng lại sợ Online không hiệu quả bằng Offline.",
+    "initialMessage": "Nhà mình cách trung tâm 15km lận, đi học buổi tối khá ngại. Mình muốn học online cho tiện nhưng sợ học qua Zoom không tương tác được nhiều với giáo viên. Bên bạn học online thì chất lượng có đảm bảo như offline không?"
+  },
+  {
+    "id": 6,
+    "studentName": "Tuấn Dũng",
+    "category": "Cross-sell",
+    "title": "Đang học giao tiếp, tư vấn thi TOPIK",
+    "description": "Tuấn Dũng vừa kết thúc Sơ cấp 2 giao tiếp. Sale cần tư vấn Dũng đăng ký tiếp lên Luyện thi TOPIK II để lấy chứng chỉ đi xin việc.",
+    "initialMessage": "Mình vừa nhận kết quả bài test SC2 xong, khá ổn. Mình tính dừng ở đây tự học giao tiếp qua phim thôi, chứ học tiếp lên cao cũng chưa biết để làm gì."
+  },
+  {
+    "id": 7,
+    "studentName": "Hải Yến",
+    "category": "Chính sách",
+    "title": "Muốn bảo lưu giữa chừng",
+    "description": "Hải Yến đang học buổi thứ 5 của SC1 nhưng sắp phải đi công tác 1 tháng. Bạn ấy muốn bảo lưu nhưng theo quy định thì quá hạn bảo lưu miễn phí.",
+    "initialMessage": "Chị ơi, tuần sau em phải đi công tác miền Nam 1 tháng rưỡi. Em muốn xin bảo lưu khóa SC1 này, đợt sau về em học lại bù từ đầu được không ạ?"
+  },
+  {
+    "id": 8,
+    "studentName": "Quốc Bảo",
+    "category": "Phụ huynh",
+    "title": "Phụ huynh hỏi cho con",
+    "description": "Mẹ của Quốc Bảo (học sinh lớp 10) muốn tìm khóa học cho con để định hướng đi du học. Phụ huynh rất khó tính, lo con học tiếng Hàn sẽ xao nhãng việc học ở trường.",
+    "initialMessage": "Chào em, chị muốn hỏi lớp tiếng Hàn cho bé nhà chị đang học lớp 10. Nhưng chị sợ cháu học 3 buổi 1 tuần lại ảnh hưởng đến bài vở trên trường. Lớp bên em có bài tập về nhà nhiều không?"
+  },
+  {
+    "id": 9,
+    "studentName": "Bích Ngọc",
+    "category": "Cam kết",
+    "title": "Đòi cam kết giấy tờ",
+    "description": "Bích Ngọc muốn học lấy TOPIK 3 cấp tốc trong 6 tháng. Bạn ấy đòi trung tâm phải ký giấy cam kết đền tiền 100% nếu thi trượt.",
+    "initialMessage": "Mình thấy quảng cáo là cam kết đầu ra TOPIK 3 trong 6 tháng. Nhưng nhỡ mình thi rớt thì sao? Trung tâm có hợp đồng đền bù lại 100% học phí và lệ phí thi không?"
+  },
+  {
+    "id": 10,
+    "studentName": "Văn Hùng",
+    "category": "Lịch học",
+    "title": "Đòi đổi lịch liên tục",
+    "description": "Khách hàng Văn Hùng làm ca kíp, tuần làm ca ngày, tuần làm ca đêm. Hùng yêu cầu trung tâm sắp xếp lớp ghép để bạn ấy được nhảy lớp liên tục giữa ca sáng và ca tối.",
+    "initialMessage": "Công việc của anh là làm ca luân phiên. Tuần này ca ngày thì anh học tối được, nhưng tuần sau ca đêm anh lại phải học sáng. Trung tâm có lớp nào linh động cho anh nhảy qua nhảy lại như vậy không?"
+  },
+  {
+    "id": 11,
+    "studentName": "Cẩm Tú",
+    "category": "Xin học thử",
+    "title": "Muốn học thử 3 buổi",
+    "description": "Cẩm Tú chưa từng học ở trung tâm nào, thấy quảng cáo nên tò mò. Tú đòi học thử miễn phí 3 buổi trước rồi mới quyết định đóng tiền.",
+    "initialMessage": "Em chưa học tiếng Hàn bao giờ nên cũng không biết có hợp với phương pháp bên chị không. Chị cho em xin học thử 3 buổi đầu lớp SC1, nếu thấy hiểu bài em mới đóng tiền được không?"
+  },
+  {
+    "id": 12,
+    "studentName": "Đức Kiên",
+    "category": "Gom nhóm",
+    "title": "Đăng ký nhóm đòi giảm giá cực sâu",
+    "description": "Đức Kiên đại diện cho nhóm 5 người bạn định đăng ký. Kiên nắm quyền sinh sát, đòi trung tâm phải giảm 30% học phí cho cả nhóm thì mới chốt.",
+    "initialMessage": "Anh đang có 1 nhóm 5 bạn muốn đăng ký lộ trình 1 năm bên em. Nhóm đông như vậy thì bên em phải có chính sách đặc biệt chiết khấu 30% thì anh mới báo các bạn chuyển khoản nhé."
+  },
+  {
+    "id": 13,
+    "studentName": "Lan Anh",
+    "category": "Chất lượng GV",
+    "title": "Chỉ muốn học GV Hàn",
+    "description": "Lan Anh cho rằng chỉ có học giáo viên người Hàn 100% mới phát âm chuẩn, từ chối học giáo viên Việt Nam dù ở trình độ Sơ cấp.",
+    "initialMessage": "Mình tham khảo thấy SC1 bên bạn dạy bằng GV Việt Nam. Nhưng mình muốn luyện phát âm chuẩn ngay từ đầu nên chỉ muốn học 100% GV người Hàn thôi. Bên bạn có lớp như thế không?"
+  },
+  {
+    "id": 14,
+    "studentName": "Thu Hà",
+    "category": "So sánh",
+    "title": "So sánh với tự học",
+    "description": "Thu Hà nghĩ có thể tự học bảng chữ cái và Sơ cấp 1 qua Youtube, nên chỉ muốn đăng ký học thẳng từ SC2.",
+    "initialMessage": "Mình thấy trên Youtube người ta dạy bảng chữ cái với SC1 đầy ra. Mình tính tự học ở nhà tầm 1 tháng rồi ra trung tâm test đầu vào học SC2 luôn cho tiết kiệm. Bạn thấy thế ổn không?"
+  },
+  {
+    "id": 15,
+    "studentName": "Thanh Trúc",
+    "category": "Than phiền",
+    "title": "Giáo viên nghiêm khắc",
+    "description": "Thanh Trúc đang học SC2, nhắn tin phàn nàn là cô giáo giao quá nhiều bài tập và hay gọi lên bảng trả bài khiến lớp bị áp lực.",
+    "initialMessage": "Chị ơi, lớp SC2 của cô Trang bài tập nhiều quá ạ. Em đi làm cả ngày mệt rồi, tối đi học cô lại hay gọi lên bảng kiểm tra từ vựng gắt gao làm em thấy áp lực quá, chả muốn đi học nữa."
+  },
+  {
+    "id": 16,
+    "studentName": "Gia Huy",
+    "category": "Thủ tục",
+    "title": "Khó khăn tài chính",
+    "description": "Gia Huy là sinh viên, rất muốn học combo TOPIK 4 nhưng không đủ tiền trả 1 lần. Cần Sale hướng dẫn trả góp hoặc chia nhỏ khóa học một cách khéo léo.",
+    "initialMessage": "Em thực sự rất muốn theo lộ trình 1 năm của Hi Korean. Nhưng mà em là sinh viên, học phí cả lộ trình hơn chục triệu em không thể nào gom đủ một lúc được. Chị có cách nào hỗ trợ cho sinh viên nghèo không ạ?"
+  },
+  {
+    "id": 17,
+    "studentName": "Ngọc Diệp",
+    "category": "Quy định",
+    "title": "Nghỉ quá số buổi",
+    "description": "Ngọc Diệp bị cấm thi cuối khóa do nghỉ quá 20% số buổi học (vi phạm nội quy). Bạn ấy gọi điện làm ầm lên đòi trung tâm linh động.",
+    "initialMessage": "Mình đóng full tiền rồi, việc mình đi học hay nghỉ là quyền của mình chứ sao trung tâm lại cấm mình thi cuối khóa chỉ vì nghỉ quá 3 buổi? Mình bận việc công ty chứ có trốn học đi chơi đâu?"
+  },
+  {
+    "id": 18,
+    "studentName": "Tuấn Ngọc",
+    "category": "Kết quả",
+    "title": "Thi rớt TOPIK",
+    "description": "Tuấn Ngọc vừa thi rớt TOPIK 3 (thiếu 2 điểm). Bạn ấy rất thất vọng, muốn đổ lỗi cho giáo trình trung tâm và định không ôn nữa.",
+    "initialMessage": "Em mới tra điểm TOPIK, em bị thiếu 2 điểm nữa mới đỗ TOPIK 3 chị ạ. Em thấy buồn quá, học mấy tháng trời ở trung tâm mà đi thi đề ra nhiều từ vựng lạ hoắc. Chắc em không có duyên với tiếng Hàn rồi."
+  },
+  {
+    "id": 19,
+    "studentName": "Quỳnh Chi",
+    "category": "Rủ rê",
+    "title": "Đòi ghép lớp với người yêu",
+    "description": "Quỳnh Chi và người yêu cùng đăng ký học. Chi test đầu vào được vào SC2, nhưng người yêu thì chưa biết gì phải học SC1. Chi đòi trung tâm phải cho người yêu học chung SC2 với Chi.",
+    "initialMessage": "Chị ơi, người yêu em chưa biết chữ nào tiếng Hàn nhưng mà tụi em muốn đi học chung 1 lớp cho vui. Chị cứ xếp anh ấy vào lớp SC2 cùng em đi, có gì trên lớp em sẽ chỉ thêm cho anh ấy cũng được."
+  },
+  {
+    "id": 20,
+    "studentName": "Minh Tuệ",
+    "category": "Hoài nghi",
+    "title": "Hỏi về chứng chỉ",
+    "description": "Minh Tuệ hỏi học xong trung tâm cấp bằng gì, bằng đó có xin được việc hay đi du học được không (nhầm lẫn giữa giấy chứng nhận trung tâm và TOPIK).",
+    "initialMessage": "Chị cho em hỏi, em đăng ký học xong lộ trình giao tiếp thì bên trung tâm mình cấp cái bằng tiếng Hàn luôn đúng không ạ? Cái bằng đó của bên mình mang đi nộp hồ sơ xin việc ở Samsung người ta có chấp nhận không chị?"
+  }
+]

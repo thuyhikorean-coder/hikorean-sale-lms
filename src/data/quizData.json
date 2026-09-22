@@ -1,0 +1,1282 @@
+[
+  {
+    "id": 1,
+    "question": "Khi học viên thi xong cuối khóa SC1, Sale nên mở đầu tin nhắn như thế nào để tạo ấn tượng tốt nhất?",
+    "options": [
+      "Gửi ngay bảng học phí SC2 để chốt sale",
+      "Gửi điểm số đạt được, chúc mừng và khen ngợi sự cố gắng của học viên",
+      "Hỏi xem học viên có muốn học tiếp không",
+      "Im lặng chờ học viên tự liên hệ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Báo điểm kèm lời khen giúp học viên có cảm xúc tích cực, dễ dàng đón nhận các tư vấn tiếp theo."
+  },
+  {
+    "id": 2,
+    "question": "Nếu khách hàng báo bị trùng lịch học t2-4-6, cách xử lý KHÉO LÉO nhất là gì?",
+    "options": [
+      "Bảo khách khi nào rảnh thì học sau",
+      "Đưa ra ngay phương án lịch học t3-5-7 hoặc một khóa khai giảng khác phù hợp hơn",
+      "Xin lỗi khách và ngắt kết nối",
+      "Khuyên khách bỏ lịch cá nhân để học"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sale không bao giờ được bỏ cuộc. Khách bận lịch này phải lập tức offer lịch khác (3-5-7) hoặc giờ học khác."
+  },
+  {
+    "id": 3,
+    "question": "Để học viên có hứng thú đăng ký khóa tiếp theo (SC2), Sale nên sử dụng mồi câu nào?",
+    "options": [
+      "Hứa hẹn học phí sẽ rẻ hơn nếu đóng ngay",
+      "Chỉ ra những hạn chế của SC1 và ép học SC2",
+      "Gửi Sổ tay từ vựng & ngữ pháp SC2 (dạng PDF) tặng trước để học viên tò mò",
+      "Đe dọa nếu không học sẽ quên kiến thức"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Tặng quà trước (tài liệu học) giúp kích thích sự tò mò và tạo giá trị trước khi chốt sale."
+  },
+  {
+    "id": 4,
+    "question": "Thay vì chỉ tư vấn một khóa lẻ tẻ (SC2), Sale nên làm gì để tăng giá trị vòng đời học viên?",
+    "options": [
+      "Tư vấn lộ trình dài hạn (Combo SC2+SC3 hoặc SC2+Giao tiếp) kèm ưu đãi đặc biệt",
+      "Chỉ tập trung chốt SC2 cho nhanh",
+      "Khuyên học viên tự học ở nhà",
+      "Chờ học viên tự hỏi về lộ trình dài hạn"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Upsell combo giúp tăng doanh thu và mang lại cam kết học tập dài hạn cho học viên."
+  },
+  {
+    "id": 5,
+    "question": "Yếu tố nào giúp chốt sale hiệu quả trong lúc khách hàng đang do dự?",
+    "options": [
+      "Thúc giục liên tục",
+      "Tạo sự khan hiếm (ví dụ: chỉ còn 2 slot ưu đãi, ưu đãi kết thúc trong hôm nay)",
+      "Bỏ qua và tìm khách khác",
+      "Giảm giá vô tội vạ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tạo sự khan hiếm là kỹ năng chốt sale kinh điển giúp thúc đẩy quyết định của khách hàng."
+  },
+  {
+    "id": 6,
+    "question": "Trong quá trình học viên đang học (sắp kết khóa), hành động nào của Sale thể hiện sự quan tâm chuyên nghiệp?",
+    "options": [
+      "Không nhắn tin gì để tránh làm phiền",
+      "Nhắn tin hỏi thăm tình hình học tập, vướng mắc để hỗ trợ kịp thời",
+      "Chỉ nhắn tin khi cần thu học phí",
+      "Chờ giáo viên báo cáo rồi mới xử lý"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chăm sóc khách hàng chủ động giúp tăng độ hài lòng và tỷ lệ đăng ký khóa tiếp theo."
+  },
+  {
+    "id": 7,
+    "question": "Để thủ tục đăng ký chuyên nghiệp và gọn gàng, Sale cần gửi những gì cho học viên?",
+    "options": [
+      "Chỉ gửi số tài khoản",
+      "Gửi form đăng ký, thông tin chuyển khoản và hướng dẫn chi tiết",
+      "Yêu cầu học viên tự lên website tìm hiểu",
+      "Gọi điện thoại nói miệng"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Thông tin rõ ràng, đầy đủ giúp học viên dễ dàng thực hiện thao tác và thấy được sự chuyên nghiệp."
+  },
+  {
+    "id": 8,
+    "question": "Khi yêu cầu học viên chuyển khoản, Sale cần cung cấp thông tin gì rõ ràng nhất?",
+    "options": [
+      "Chỉ cần tên ngân hàng",
+      "Số tài khoản, tên chủ tài khoản, ngân hàng và cú pháp chuyển khoản chính xác",
+      "Số tiền cần chuyển",
+      "Tên chi nhánh ngân hàng"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cú pháp và thông tin chính xác giúp trung tâm dễ dàng đối soát và tránh sai sót."
+  },
+  {
+    "id": 9,
+    "question": "Học viên phản hồi là link bài test bị LỖI không mở được, Sale nên:",
+    "options": [
+      "Bảo học viên tự kiểm tra lại mạng",
+      "Xin lỗi, kiểm tra lại link ngay lập tức và gửi link mới hoặc hướng dẫn cách mở",
+      "Đổ lỗi cho bộ phận kỹ thuật",
+      "Bỏ qua tin nhắn"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Xử lý sự cố nhanh chóng, nhận trách nhiệm và đưa ra giải pháp là thái độ CSKH chuyên nghiệp."
+  },
+  {
+    "id": 10,
+    "question": "Việc gửi 'Sổ tay từ vựng & ngữ pháp SC2' dưới định dạng PDF cho học viên trước khi họ đăng ký có tác dụng gì?",
+    "options": [
+      "Để học viên tự học không cần đăng ký",
+      "Tạo giá trị gia tăng, kích thích sự tò mò và mong muốn học tiếp",
+      "Làm đầy bộ nhớ điện thoại của học viên",
+      "Giảm bớt công việc tư vấn của Sale"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Quà tặng tài liệu là mồi câu tuyệt vời để duy trì sự hứng thú học tập của học viên."
+  },
+  {
+    "id": 11,
+    "question": "Khách hàng chê học phí cao, Sale nên phản hồi thế nào?",
+    "options": [
+      "Đồng tình và giảm giá ngay lập tức",
+      "Nhấn mạnh vào giá trị, chất lượng giảng dạy và cam kết đầu ra để so sánh",
+      "Bảo khách đi tìm trung tâm khác rẻ hơn",
+      "Không trả lời nữa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Luôn tập trung vào giá trị mang lại (Value) thay vì chạy đua về giá (Price).",
+    "category": "Xử lý từ chối về giá"
+  },
+  {
+    "id": 12,
+    "question": "Khi khách hàng nói 'Để chị suy nghĩ thêm vì hơi quá ngân sách', cách xử lý tốt nhất là?",
+    "options": [
+      "Vâng, chị cứ suy nghĩ đi ạ",
+      "Chia nhỏ học phí, tư vấn trả góp hoặc đưa ra ưu đãi giới hạn thời gian",
+      "Hỏi thẳng khách có bao nhiêu tiền",
+      "Tỏ thái độ khó chịu"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chia nhỏ học phí (VD: trả góp) giúp giảm áp lực tài chính cho khách.",
+    "category": "Xử lý từ chối về giá"
+  },
+  {
+    "id": 13,
+    "question": "Khách hỏi 'Bên em có giảm giá thêm không?', Sale đáp:",
+    "options": [
+      "Dạ không, bên em giá niêm yết rồi",
+      "Dạ học phí bên em đã ưu đãi tốt nhất rồi, nhưng nếu anh/chị đăng ký hnay em tặng thêm bộ tài liệu độc quyền",
+      "Dạ có, em bớt thêm 500k nhé",
+      "Để em hỏi sếp đã"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Thay vì giảm giá trực tiếp làm giảm giá trị khóa học, hãy dùng quà tặng (Add-on) để chốt sale.",
+    "category": "Xử lý từ chối về giá"
+  },
+  {
+    "id": 14,
+    "question": "Nếu khách hàng so sánh giá với trung tâm A (rẻ hơn), Sale nên làm gì?",
+    "options": [
+      "Nói xấu trung tâm A",
+      "Phân tích sự khác biệt về sĩ số, chất lượng giáo viên và quyền lợi bảo lưu/học lại của Hi Korean",
+      "Giảm giá để cạnh tranh với trung tâm A",
+      "Im lặng"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Làm nổi bật USP (Unique Selling Proposition) của Hi Korean là cách tốt nhất để vượt qua so sánh giá.",
+    "category": "Xử lý từ chối về giá"
+  },
+  {
+    "id": 15,
+    "question": "Khách hàng báo 'Tháng này kẹt tiền quá, tháng sau đăng ký được không?', Sale xử lý:",
+    "options": [
+      "Vâng tháng sau chị đăng ký nhé",
+      "Dạ vâng, nhưng chị có thể cọc trước 500k để giữ ưu đãi của tháng này, tháng sau học phí có thể tăng ạ",
+      "Vậy chị vay mượn thêm đi",
+      "Không sao, bao giờ có tiền thì học"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chốt cọc giữ chỗ là kỹ thuật rất quan trọng để tránh mất khách vào tháng sau.",
+    "category": "Xử lý từ chối về giá"
+  },
+  {
+    "id": 16,
+    "question": "Sale nên làm gì khi khách chê mức cọc 1 triệu là quá cao?",
+    "options": [
+      "Hạ mức cọc xuống tùy tâm khách",
+      "Giải thích rõ đây là quy định để giữ slot và mức ưu đãi cực lớn, tiền cọc sẽ được trừ thẳng vào học phí",
+      "Hủy luôn không cho khách cọc nữa",
+      "Bảo khách cọc 2 triệu"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cần giải thích rõ quyền lợi gắn liền với số tiền cọc để khách yên tâm.",
+    "category": "Xử lý từ chối về giá"
+  },
+  {
+    "id": 17,
+    "question": "Khi tư vấn Combo dài hạn, khách sợ đóng một cục nhiều tiền, Sale có thể đề xuất gì?",
+    "options": [
+      "Bảo khách đóng từng khóa một (không áp dụng ưu đãi combo)",
+      "Đề xuất chính sách trả góp 0% qua thẻ tín dụng hoặc chia làm 2 đợt đóng",
+      "Khuyên khách vay ngân hàng",
+      "Ép khách phải đóng 1 cục"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cung cấp giải pháp thanh toán linh hoạt giúp tăng tỷ lệ chốt các khóa giá trị cao (High-ticket).",
+    "category": "Xử lý từ chối về giá"
+  },
+  {
+    "id": 18,
+    "question": "Tại sao không nên báo giá ngay khi khách vừa nhắn tin 'Học phí bao nhiêu'?",
+    "options": [
+      "Vì sợ khách chê đắt chạy mất",
+      "Vì cần phải tìm hiểu trình độ, mục tiêu và tư vấn lộ trình phù hợp trước để khách thấy được giá trị",
+      "Vì quy định công ty cấm",
+      "Vì Sale chưa nhớ giá"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nguyên tắc Sale: Luôn tạo ra Giá Trị trước khi đưa ra Giá Cả.",
+    "category": "Xử lý từ chối về giá"
+  },
+  {
+    "id": 19,
+    "question": "Khách nói 'Giá rẻ nhỉ, chất lượng có đảm bảo không?', Sale cần trả lời:",
+    "options": [
+      "Dạ tiền nào của nấy ạ",
+      "Dạ mức giá này là do bên em đang có ưu đãi lớn tri ân học viên, chất lượng cam kết bằng văn bản hợp đồng ạ",
+      "Dạ vâng chất lượng bình thường thôi ạ",
+      "Anh/chị yên tâm đi, không sao đâu"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Phải dùng cam kết hợp đồng để đập tan sự nghi ngờ về chất lượng khi có giá rẻ.",
+    "category": "Xử lý từ chối về giá"
+  },
+  {
+    "id": 20,
+    "question": "Một trong những sai lầm lớn nhất khi khách chê đắt là gì?",
+    "options": [
+      "Tiếp tục giải thích giá trị khóa học",
+      "Ngay lập tức tụt năng lượng và cho rằng khách không có tiền thật",
+      "Chuyển hướng sang tư vấn gói học bổng/trả góp",
+      "Đồng cảm với khách"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Giữ vững năng lượng và niềm tin vào sản phẩm là yếu tố tiên quyết của một người Sale giỏi.",
+    "category": "Xử lý từ chối về giá"
+  },
+  {
+    "id": 21,
+    "question": "Đâu là tín hiệu mua hàng (Buying signal) từ khách hàng?",
+    "options": [
+      "Khách seen không rep",
+      "Khách hỏi 'Học phí này đã bao gồm giáo trình chưa em?'",
+      "Khách bảo 'Trung tâm em xa quá'",
+      "Khách chê logo trung tâm xấu"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Khi khách hỏi sâu về chi tiết quyền lợi (giáo trình, lịch học), đó là tín hiệu họ đã sẵn sàng mua.",
+    "category": "Kỹ năng chốt sale"
+  },
+  {
+    "id": 22,
+    "question": "Kỹ thuật 'Chốt giả định' (Assumptive Close) là như thế nào?",
+    "options": [
+      "Hỏi khách 'Chị có mua không?'",
+      "Hỏi khách 'Vậy chị chuyển khoản qua Vietcombank hay Techcombank để em làm hồ sơ ạ?'",
+      "Giả định khách không mua và bỏ qua",
+      "Bảo khách suy nghĩ thêm"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Đưa ra câu hỏi lựa chọn phương thức thanh toán thay vì câu hỏi Có/Không.",
+    "category": "Kỹ năng chốt sale"
+  },
+  {
+    "id": 23,
+    "question": "Khi khách hàng đã đồng ý học, việc tiếp theo Sale NÊN làm NGAY LẬP TỨC là gì?",
+    "options": [
+      "Gửi mã QR/STK và hướng dẫn cú pháp chuyển khoản rõ ràng",
+      "Tâm sự tiếp chuyện đời tư với khách",
+      "Đi pha cốc cà phê rồi tí gửi STK sau",
+      "Hỏi lại 'Chị chắc chắn học chứ?'"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Khi cảm xúc khách đang lên cao, phải đưa ra Call to Action (Gửi STK) ngay lập tức.",
+    "category": "Kỹ năng chốt sale"
+  },
+  {
+    "id": 24,
+    "question": "Khách bảo 'Để chị hỏi ý kiến chồng đã', Sale nên phản hồi thế nào để không bị mất khách?",
+    "options": [
+      "Vâng chị hỏi đi ạ",
+      "Dạ vâng, tiện thể em gửi chị bảng chi tiết lộ trình để chị đưa anh xem nhé. Khoảng tối mai em nhắn lại chị nha!",
+      "Chồng chị chắc không cho đâu",
+      "Chị tự quyết định đi chứ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cung cấp thêm tài liệu để khách dễ bề thuyết phục người nhà, đồng thời chốt lịch hẹn liên lạc lại.",
+    "category": "Kỹ năng chốt sale"
+  },
+  {
+    "id": 25,
+    "question": "Làm thế nào để tạo ra sự khẩn cấp (Urgency) mà không phản cảm?",
+    "options": [
+      "'Nhanh lên chị, không là hết hạn đấy'",
+      "'Dạ hiện lớp tối t2-4-6 chỉ còn đúng 2 slot nhận ưu đãi giảm 30%, chị chốt sớm để em giữ chỗ nhé'",
+      "'Chị không đóng tiền là em bị sếp mắng'",
+      "'Em xin chị đấy đăng ký đi'"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Đưa ra con số cụ thể (chỉ còn 2 slot) kèm theo lợi ích (ưu đãi 30%) tạo sự khẩn cấp rất tự nhiên.",
+    "category": "Kỹ năng chốt sale"
+  },
+  {
+    "id": 26,
+    "question": "Nếu gọi điện thoại chốt sale (Telesale), giọng điệu của Sale nên như thế nào?",
+    "options": [
+      "Thều thào, nói nhỏ vì sợ phiền",
+      "Tràn đầy năng lượng, tự tin, phát âm rõ ràng và mỉm cười khi nói",
+      "Gắt gỏng, nói nhanh cho xong",
+      "Giọng đều đều như đọc kịch bản"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Năng lượng của Sale sẽ truyền sang khách hàng. Mỉm cười khi nói giúp giọng điệu thân thiện hơn.",
+    "category": "Kỹ năng chốt sale"
+  },
+  {
+    "id": 27,
+    "question": "Khi khách hàng đang trong trạng thái 'Seen' quá 24h, Sale nên làm gì?",
+    "options": [
+      "Bơ luôn khách",
+      "Nhắn một tin nhắn follow-up thả thính: 'Dạ chị Yến ơi, hôm qua em có chừa lại 1 suất ưu đãi cho chị, không biết chị đã thu xếp được chưa ạ?'",
+      "Nhắn dấu chấm '?'",
+      "Chửi khách sao không rep"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Follow-up khéo léo bằng cách nhắc lại ưu đãi và thể hiện sự quan tâm đặc biệt (chừa lại suất).",
+    "category": "Kỹ năng chốt sale"
+  },
+  {
+    "id": 28,
+    "question": "Sale có nên cam kết những thứ không có trong chính sách trung tâm để chốt khách không?",
+    "options": [
+      "Có, chốt được là trên hết",
+      "Tuyệt đối KHÔNG, chỉ cam kết những gì trung tâm có thể thực hiện được bằng văn bản",
+      "Chỉ hứa miệng, không ghi vào hợp đồng",
+      "Tùy tâm trạng"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cam kết quá lố (Over-promise) sẽ dẫn đến khủng hoảng CSKH sau này. Chỉ bán sự thật.",
+    "category": "Kỹ năng chốt sale"
+  },
+  {
+    "id": 29,
+    "question": "Kỹ thuật 'Chốt đảo ngược' (Takeaway Close) thường áp dụng khi nào?",
+    "options": [
+      "Khi khách vừa nhắn tin",
+      "Khi khách quá nhây, đòi hỏi vô lý: 'Nếu chị không quyết định sớm, suất ưu đãi này em xin phép nhường cho bạn khác đang chờ ạ'",
+      "Khi khách đã chuyển khoản",
+      "Khi khách mới hỏi giá"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lấy đi cơ hội của khách sẽ kích hoạt tâm lý 'Sợ bỏ lỡ' (FOMO) của họ.",
+    "category": "Kỹ năng chốt sale"
+  },
+  {
+    "id": 30,
+    "question": "Mục đích của việc gọi điện cho khách thay vì nhắn tin khi chốt sale là gì?",
+    "options": [
+      "Đỡ mỏi tay gõ phím",
+      "Truyền đạt cảm xúc tốt hơn, giải quyết thắc mắc ngay lập tức và đẩy cảm xúc khách hàng lên cao",
+      "Để chửi khách dễ hơn",
+      "Vì quy định trung tâm"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Giọng nói mang lại cảm xúc mạnh mẽ hơn văn bản, giúp phá băng và chốt sale tỷ lệ cao hơn.",
+    "category": "Kỹ năng chốt sale"
+  },
+  {
+    "id": 31,
+    "question": "Khách bảo 'Chị bận quá chắc không theo lịch cố định được', Sale tư vấn sao?",
+    "options": [
+      "Vậy chị nghỉ đi ạ",
+      "Dạ bên em có các lớp linh hoạt, ngoài ra mọi buổi học đều được ghi hình (Record) để chị xem lại nếu lỡ bận ạ",
+      "Chị bận thì thôi đừng học",
+      "Cố gắng sắp xếp đi chị"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Record buổi học là một trong những 'vũ khí' tuyệt vời để chốt khách hàng bận rộn.",
+    "category": "Xử lý từ chối về thời gian/lịch học"
+  },
+  {
+    "id": 32,
+    "question": "Khách muốn học 1-1 vì lịch quá lung tung, nhưng trung tâm chỉ mạnh lớp nhóm, Sale nên:",
+    "options": [
+      "Từ chối luôn",
+      "Tư vấn lớp nhóm nhưng cam kết hỗ trợ ngoài giờ 1-1 với trợ giảng, nhấn mạnh lớp nhóm có không khí thi đua học tốt hơn",
+      "Bảo khách đi tìm gia sư",
+      "Ép khách học lớp nhóm mà không giải thích"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Biến nhược điểm thành ưu điểm (lớp nhóm vui hơn, có tính cạnh tranh) và bổ sung add-on (trợ giảng kèm ngoài giờ).",
+    "category": "Xử lý từ chối về thời gian/lịch học"
+  },
+  {
+    "id": 33,
+    "question": "Khách hỏi 'Học 6 tháng có cam kết đỗ TOPIK 2 không?', Sale trả lời:",
+    "options": [
+      "Chắc chắn 100% đỗ, nhắm mắt cũng đỗ",
+      "Dạ trung tâm cam kết đầu ra bằng văn bản nếu chị tham gia đủ 80% buổi học và làm đủ bài tập ạ. Nếu không đỗ được học lại miễn phí!",
+      "Hên xui chị ạ",
+      "Không cam kết gì hết"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cam kết đầu ra luôn đi kèm với điều kiện về sự nỗ lực của học viên (đi học, làm bài tập).",
+    "category": "Xử lý từ chối về thời gian/lịch học"
+  },
+  {
+    "id": 34,
+    "question": "Nếu trung tâm chưa có lịch khai giảng phù hợp ngay tuần này, Sale nên:",
+    "options": [
+      "Bảo khách khi nào có lịch sẽ nhắn",
+      "Chốt cọc giữ chỗ cho lịch khai giảng tuần sau/tháng sau, tặng trước tài liệu để khách tự ôn tập làm quen",
+      "Im lặng",
+      "Bảo khách sang trung tâm khác"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Luôn cố gắng chốt cọc để lock khách, không để khách bị nguội ý chí học tập.",
+    "category": "Xử lý từ chối về thời gian/lịch học"
+  },
+  {
+    "id": 35,
+    "question": "Khách đang học giữa chừng báo 'Chị đi công tác 1 tháng, chị xin nghỉ', Sale xử lý:",
+    "options": [
+      "Cho khách nghỉ luôn",
+      "Hỗ trợ làm thủ tục BẢO LƯU cho khách để khách yên tâm công tác, cam kết xếp lớp phù hợp khi khách quay lại",
+      "Bắt khách nộp tiền phạt",
+      "Bảo khách cố mà vừa đi công tác vừa học"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chính sách bảo lưu là quyền lợi chính đáng, Sale cần hỗ trợ nhiệt tình để giữ chân học viên.",
+    "category": "Xử lý từ chối về thời gian/lịch học"
+  },
+  {
+    "id": 36,
+    "question": "'Em làm ca xoay liên tục, không học cố định tối được'. Giải pháp của Sale là:",
+    "options": [
+      "Gợi ý học các lớp có cả ca sáng và tối để học viên học bù chéo, kết hợp xem lại video record",
+      "Bảo khách nghỉ việc",
+      "Từ chối nhận khách",
+      "Gửi video cho khách tự học"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sự linh hoạt trong việc học bù chéo các ca là điểm cộng lớn của trung tâm.",
+    "category": "Xử lý từ chối về thời gian/lịch học"
+  },
+  {
+    "id": 37,
+    "question": "Học viên kêu 'Lịch học 3 buổi/tuần nhiều quá, chị sợ học không vào', Sale nói gì?",
+    "options": [
+      "'Nhiều gì chị, người ta học 5 buổi kìa'",
+      "'Dạ lịch 3 buổi là chuẩn khoa học để não bộ ghi nhớ tốt nhất, không bị ngợp mà cũng không bị quên. Em sẽ đồng hành nhắc nhở chị nhé!'",
+      "'Thế chị học 1 buổi thôi'",
+      "'Tại chương trình nó thế chị ạ'"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dùng lý lẽ khoa học và sự cam kết đồng hành của Sale để trấn an học viên.",
+    "category": "Xử lý từ chối về thời gian/lịch học"
+  },
+  {
+    "id": 38,
+    "question": "Khi khách hỏi về lịch học, Sale nên đưa ra:",
+    "options": [
+      "10 lịch học để khách tự chọn",
+      "2 phương án lịch học phù hợp nhất với khung giờ khách đã chia sẻ để khách dễ ra quyết định",
+      "Không đưa ra lịch nào",
+      "Chỉ đưa 1 lịch duy nhất"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nghịch lý của sự lựa chọn: Đưa quá nhiều lựa chọn sẽ làm khách hàng bối rối. Hãy đưa 2 options.",
+    "category": "Xử lý từ chối về thời gian/lịch học"
+  },
+  {
+    "id": 39,
+    "question": "Nếu lịch khách chọn bị full (đầy) học viên, Sale nên:",
+    "options": [
+      "Xin lỗi và báo khách không học được",
+      "Sử dụng nó làm 'hiệu ứng chim mồi': 'Dạ lịch đó bên em vừa full slot cuối, chị học sang lịch X nhé, em xin sếp giữ nguyên ưu đãi cho chị'",
+      "Đuổi bớt học viên cũ ra",
+      "Nhét thêm khách vào mặc kệ chất lượng"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sự full lớp chứng tỏ trung tâm uy tín. Tận dụng điều đó để chốt lớp khác một cách tự nhiên.",
+    "category": "Xử lý từ chối về thời gian/lịch học"
+  },
+  {
+    "id": 40,
+    "question": "Khách muốn học cấp tốc 1 tháng đỗ TOPIK 3 từ con số 0, Sale nên:",
+    "options": [
+      "Nhận tiền và hứa hươu hứa vượn",
+      "Phân tích thực tế lộ trình học ngôn ngữ cần thời gian tích lũy, tư vấn lộ trình thực tế 6-8 tháng để khách hiểu",
+      "Chửi khách ảo tưởng",
+      "Bảo khách tự học"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tư vấn có tâm, đúng chuyên môn sẽ tạo sự tin tưởng tuyệt đối từ khách hàng.",
+    "category": "Xử lý từ chối về thời gian/lịch học"
+  },
+  {
+    "id": 41,
+    "question": "Điểm mạnh (USP) lớn nhất của khóa giao tiếp tại Hi Korean là gì?",
+    "options": [
+      "Giáo trình photocopy",
+      "100% học với giáo viên Hàn Quốc có chứng chỉ sư phạm, luyện phát âm chuẩn như người bản xứ",
+      "Học phí rẻ nhất thị trường",
+      "Không có bài tập về nhà"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nhấn mạnh vào chất lượng giáo viên bản xứ là chìa khóa bán khóa giao tiếp.",
+    "category": "Kiến thức sản phẩm & USP"
+  },
+  {
+    "id": 42,
+    "question": "Khóa học SC1 (Sơ cấp 1) phù hợp với đối tượng nào?",
+    "options": [
+      "Người đã có TOPIK 2",
+      "Người chưa từng học tiếng Hàn hoặc mất gốc hoàn toàn",
+      "Người muốn luyện dịch thuật",
+      "Giáo viên tiếng Hàn"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Xác định đúng chân dung khách hàng giúp tư vấn trúng đích.",
+    "category": "Kiến thức sản phẩm & USP"
+  },
+  {
+    "id": 43,
+    "question": "Khách muốn xuất khẩu lao động sang Hàn, Sale nên định hướng khóa nào?",
+    "options": [
+      "Khóa Giao tiếp chuyên sâu",
+      "Khóa Sơ cấp (SC1, SC2) kết hợp luyện thi EPS-TOPIK",
+      "Khóa Tiếng Hàn trẻ em",
+      "Khóa Viết luận"
+    ],
+    "correctAnswer": 1,
+    "explanation": "EPS-TOPIK là chứng chỉ bắt buộc cho người đi XKLĐ Hàn Quốc.",
+    "category": "Kiến thức sản phẩm & USP"
+  },
+  {
+    "id": 44,
+    "question": "Tài liệu học tập tại Hi Korean có gì đặc biệt?",
+    "options": [
+      "Dùng sách lậu trên mạng",
+      "Giáo trình độc quyền được biên soạn bởi các chuyên gia ngôn ngữ, update liên tục theo format đề thi mới",
+      "Chỉ dùng sách giáo khoa cũ",
+      "Không có tài liệu, học chay"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Giáo trình độc quyền thể hiện sự đầu tư và chuyên môn cao của trung tâm.",
+    "category": "Kiến thức sản phẩm & USP"
+  },
+  {
+    "id": 45,
+    "question": "Để lấy được chứng chỉ TOPIK II (Cấp 3-4), học viên thường cần thời gian bao lâu nếu học từ con số 0?",
+    "options": [
+      "1 tháng",
+      "Khoảng 6 - 9 tháng học tập trung và liên tục",
+      "3 năm",
+      "1 tuần"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Đưa ra lộ trình thời gian thực tế giúp học viên chuẩn bị tâm lý và tài chính.",
+    "category": "Kiến thức sản phẩm & USP"
+  },
+  {
+    "id": 46,
+    "question": "Tại sao Sale cần phải thuộc lòng lộ trình học của trung tâm?",
+    "options": [
+      "Để đối phó với bài kiểm tra",
+      "Để tự tin vẽ ra con đường rõ ràng cho học viên, giúp họ thấy được đích đến và tin tưởng vào chuyên môn của Sale",
+      "Để khoe với sếp",
+      "Không cần thuộc"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sale có chuyên môn là Sale chốt được nhiều đơn nhất.",
+    "category": "Kiến thức sản phẩm & USP"
+  },
+  {
+    "id": 47,
+    "question": "Khi khách hỏi 'Bên em có tổ chức thi thử không?', Sale trả lời:",
+    "options": [
+      "Không, thi thử tốn thời gian",
+      "Có ạ, trung tâm tổ chức thi thử định kỳ hàng tháng mô phỏng 100% đề thi thật, giúp học viên làm quen áp lực phòng thi",
+      "Có nhưng thu phí rất cao",
+      "Học viên tự tải đề trên mạng mà thi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Thi thử mô phỏng là một dịch vụ gia tăng cực kỳ ăn điểm trong mắt học viên.",
+    "category": "Kiến thức sản phẩm & USP"
+  },
+  {
+    "id": 48,
+    "question": "'Giáo viên bên em kinh nghiệm như nào?'. Câu trả lời chuẩn xác nhất là:",
+    "options": [
+      "Giáo viên trẻ lắm ạ",
+      "100% giáo viên có bằng cử nhân/thạc sĩ Ngôn ngữ Hàn, đạt TOPIK 5/6 và có ít nhất 3 năm kinh nghiệm thực chiến",
+      "Giáo viên là sinh viên năm nhất",
+      "Em cũng không rõ lắm"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Profile giáo viên là thứ khách hàng mua niềm tin. Phải show ra những con số ấn tượng nhất.",
+    "category": "Kiến thức sản phẩm & USP"
+  },
+  {
+    "id": 49,
+    "question": "Sự khác biệt giữa TOPIK I và TOPIK II là gì?",
+    "options": [
+      "Chỉ khác nhau cái tên",
+      "TOPIK I (cấp 1-2) là sơ cấp (nghe, đọc). TOPIK II (cấp 3-6) là trung-cao cấp, có thêm phần thi Viết cực kỳ khó.",
+      "TOPIK I thi nói, TOPIK II thi viết",
+      "TOPIK II dễ hơn TOPIK I"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hiểu cấu trúc bài thi giúp Sale tư vấn chính xác khóa Luyện thi TOPIK II.",
+    "category": "Kiến thức sản phẩm & USP"
+  },
+  {
+    "id": 50,
+    "question": "Nếu khách đang phân vân giữa việc tự học qua Youtube và đi học trung tâm, Sale dùng 'vũ khí' gì?",
+    "options": [
+      "Chê bai những người tự học",
+      "Nhấn mạnh sự 'Kỷ luật', 'Môi trường tương tác sửa lỗi trực tiếp' và 'Lộ trình tối ưu rút ngắn thời gian' của trung tâm",
+      "Cứ để khách tự học",
+      "Nói Youtube toàn dạy sai"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Môi trường và sự sửa lỗi trực tiếp là thứ mà Youtube không bao giờ có được.",
+    "category": "Kiến thức sản phẩm & USP"
+  },
+  {
+    "id": 51,
+    "question": "Khi học viên SC1 nghỉ học 2 buổi liên tiếp, bộ phận Sale/CSKH nên làm gì?",
+    "options": [
+      "Mặc kệ, đóng tiền rồi thì thôi",
+      "Chủ động nhắn tin/gọi điện hỏi thăm sức khỏe, lý do nghỉ và gửi video record + bài tập để học viên không bị tụt lại",
+      "Nhắn tin mắng học viên",
+      "Báo giáo viên đuổi học"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sự theo sát thể hiện tinh thần trách nhiệm, giúp học viên không bị chán nản rồi bỏ cuộc.",
+    "category": "Chăm sóc khách hàng & Upsell"
+  },
+  {
+    "id": 52,
+    "question": "Thời điểm TỐT NHẤT để tư vấn Upsell (Bán khóa tiếp theo - SC2) là khi nào?",
+    "options": [
+      "Vừa mới đóng tiền SC1 xong",
+      "Vào buổi học cuối cùng của khóa SC1",
+      "Khi khóa học SC1 đã đi được 70-80% chặng đường và học viên đang có kết quả tốt",
+      "Sau khi học viên đã nghỉ học 3 tháng"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Giai đoạn 70-80% khóa là lúc học viên đã thấy được kết quả và có trust (niềm tin) cao nhất.",
+    "category": "Chăm sóc khách hàng & Upsell"
+  },
+  {
+    "id": 53,
+    "question": "Để Upsell thành công, Sale cần dựa vào yếu tố nào của học viên?",
+    "options": [
+      "Quê quán của học viên",
+      "Sự tiến bộ, điểm số bài test gần nhất và mục tiêu dài hạn của học viên",
+      "Sở thích âm nhạc của học viên",
+      "Tâm trạng của Sale hôm đó"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dùng chính kết quả của học viên để làm đòn bẩy thuyết phục họ học lên cao hơn.",
+    "category": "Chăm sóc khách hàng & Upsell"
+  },
+  {
+    "id": 54,
+    "question": "'Referral' (Khách giới thiệu khách) là nguồn doanh thu thụ động tuyệt vời. Làm sao để có nó?",
+    "options": [
+      "Ép khách hàng phải giới thiệu",
+      "Chăm sóc học viên cũ cực tốt, kết hợp chính sách tặng Voucher/Tiền mặt cho người giới thiệu thành công",
+      "Đăng bài trên Facebook cá nhân",
+      "Không cần làm gì, khách tự giới thiệu"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chăm sóc khách hàng xuất sắc sinh ra khách hàng mới với chi phí marketing bằng 0.",
+    "category": "Chăm sóc khách hàng & Upsell"
+  },
+  {
+    "id": 55,
+    "question": "Khi học viên phàn nàn về chất lượng giáo viên, hành động ĐẦU TIÊN của Sale là gì?",
+    "options": [
+      "Cãi lại bảo vệ giáo viên",
+      "Xin lỗi vì trải nghiệm chưa tốt, lắng nghe chi tiết vấn đề và hứa sẽ báo cáo quản lý/đổi giáo viên nếu cần",
+      "Chặn tin nhắn học viên",
+      "Hoàn tiền ngay lập tức"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lắng nghe và xoa dịu cảm xúc của khách là bước đầu tiên trong xử lý khủng hoảng.",
+    "category": "Chăm sóc khách hàng & Upsell"
+  },
+  {
+    "id": 56,
+    "question": "Học viên cũ đã dừng học 6 tháng, Sale có nên nhắn tin lại không?",
+    "options": [
+      "Không, họ quên mình rồi",
+      "Có, nhân dịp Lễ/Tết hoặc có chương trình ưu đãi đặc biệt (Re-marketing) gửi tin nhắn hỏi thăm và tặng Voucher",
+      "Có, nhắn tin đòi nợ",
+      "Có, gửi tin nhắn rác mỗi ngày"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Re-marketing khách hàng cũ tốn ít chi phí hơn nhiều so với tìm kiếm khách hàng mới.",
+    "category": "Chăm sóc khách hàng & Upsell"
+  },
+  {
+    "id": 57,
+    "question": "Khi chúc mừng sinh nhật học viên, Sale nên gửi gì kèm theo?",
+    "options": [
+      "Chỉ lời chúc suông",
+      "Một tấm thiệp thiết kế đẹp kèm mã Giảm giá đặc biệt (sinh nhật) áp dụng cho khóa học hoặc tặng người thân",
+      "Một cái video hài",
+      "Bảng giá gốc"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kết hợp chúc mừng và tặng ưu đãi cá nhân hóa giúp tăng tỷ lệ chuyển đổi vô cùng tự nhiên.",
+    "category": "Chăm sóc khách hàng & Upsell"
+  },
+  {
+    "id": 58,
+    "question": "Trong quá trình học viên ôn thi TOPIK, Sale có thể hỗ trợ gì?",
+    "options": [
+      "Không làm gì, đó là việc của giáo viên",
+      "Gửi thêm tài liệu sưu tầm, đề thi các năm trước và nhắn tin động viên trước ngày thi",
+      "Thi hộ học viên",
+      "Bảo học viên tự lo"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sự đồng hành của Sale ngoài giờ học tạo ra sự gắn kết sâu sắc (Loyalty) với thương hiệu.",
+    "category": "Chăm sóc khách hàng & Upsell"
+  },
+  {
+    "id": 59,
+    "question": "Thái độ đúng đắn của Sale khi học viên cũ báo 'chưa có nhu cầu học tiếp' là?",
+    "options": [
+      "Hủy kết bạn",
+      "Vui vẻ chấp nhận, dặn dò học viên giữ gìn kiến thức và khẳng định trung tâm luôn mở cửa đón họ quay lại",
+      "Ép học viên nói lý do",
+      "Khóc lóc van xin"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Để lại một cánh cửa mở. Rất nhiều khách hàng sẽ quay lại sau vài tháng nếu họ có ấn tượng tốt.",
+    "category": "Chăm sóc khách hàng & Upsell"
+  },
+  {
+    "id": 60,
+    "question": "Cách tốt nhất để theo dõi tiến độ của hàng trăm học viên đang học là gì?",
+    "options": [
+      "Nhớ trong đầu",
+      "Sử dụng file Excel hoặc hệ thống CRM (LMS) để ghi chú chi tiết lịch sử chăm sóc, điểm số và tính cách từng người",
+      "Ghi ra giấy nhớ dán khắp bàn",
+      "Hỏi lại giáo viên mỗi ngày"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Làm việc có hệ thống (CRM/LMS) là kỹ năng bắt buộc của một Sale/CSKH chuyên nghiệp.",
+    "category": "Chăm sóc khách hàng & Upsell"
+  },
+  {
+    "id": 61,
+    "question": "Khách hàng nhắn tin lúc 11h đêm hỏi khóa học, Sale (nếu đang thức) nên:",
+    "options": [
+      "Đọc xong để mai rep",
+      "Rep luôn nhiệt tình: 'Dạ chào chị, muộn thế này chị vẫn chăm chỉ tìm hiểu khóa học ạ, em hỗ trợ chị nhé!'",
+      "Nhắn tin chửi khách vì làm phiền",
+      "Cài tin nhắn tự động cụt lủn"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sự nhiệt tình ngoài giờ hành chính thường gây ấn tượng cực mạnh và tỷ lệ chốt sale rất cao.",
+    "category": "Xử lý tình huống khó"
+  },
+  {
+    "id": 62,
+    "question": "Khách báo 'Em ơi trung tâm khác vừa gọi báo giảm 50%, bên em giảm bằng họ đi chị học'",
+    "options": [
+      "Giảm luôn 50% theo",
+      "Khẳng định 'Giá trị đi đôi với chất lượng', giải thích việc giảm giá 50% thường đi kèm cắt giảm chất lượng giáo viên/dịch vụ",
+      "Bảo khách sang bên kia học luôn đi",
+      "Tắt máy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Không bao giờ chạy đua khô máu về giá. Hãy dùng bài toán Giá Trị để phản biện.",
+    "category": "Xử lý tình huống khó"
+  },
+  {
+    "id": 63,
+    "question": "Học viên SC1 đòi đổi giáo viên vì 'thầy dạy nhanh quá chị không theo kịp', Sale xử lý:",
+    "options": [
+      "Đổi ngay lập tức không cần hỏi",
+      "Trấn an học viên, trao đổi lại với giáo viên để điều chỉnh tốc độ, nếu sau 2 buổi vẫn không ổn mới tiến hành đổi lớp",
+      "Bảo học viên tự cố gắng đi",
+      "Mắng giáo viên"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Làm cầu nối giữa học viên và giáo viên để giải quyết tận gốc vấn đề trước khi dùng giải pháp đổi lớp.",
+    "category": "Xử lý tình huống khó"
+  },
+  {
+    "id": 64,
+    "question": "Phụ huynh gọi điện phàn nàn 'Sao con tôi học 2 tháng rồi chưa biết nói tiếng Hàn?'",
+    "options": [
+      "Đổ lỗi cho đứa trẻ lười học",
+      "Mời phụ huynh xem lại bảng điểm, nhật ký học tập, phân tích lộ trình ngôn ngữ cần thời gian tích lũy từ vựng trước khi bật âm",
+      "Hoàn lại tiền cho xong chuyện",
+      "Cãi tay đôi với phụ huynh"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dùng data (dữ liệu điểm số, chuyên cần) và chuyên môn sư phạm để giải thích một cách thuyết phục và chuyên nghiệp.",
+    "category": "Xử lý tình huống khó"
+  },
+  {
+    "id": 65,
+    "question": "Khách đã đóng cọc nhưng 1 tuần sau nhắn 'Chị có việc gia đình đột xuất, cho chị xin lại tiền cọc'",
+    "options": [
+      "Trả luôn không do dự",
+      "Theo chính sách cọc không hoàn lại, nhưng Sale linh động hỗ trợ BẢO LƯU số tiền cọc đó trong 6 tháng để khách giải quyết việc gia đình rồi đi học lại",
+      "Chửi khách lừa đảo",
+      "Chặn số"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Vừa tuân thủ luật chơi (không hoàn cọc), vừa thấu tình đạt lý (bảo lưu cọc dài hạn) giúp vẹn cả đôi đường.",
+    "category": "Xử lý tình huống khó"
+  },
+  {
+    "id": 66,
+    "question": "Khách chê 'Cơ sở vật chất bên em hơi cũ nhỉ'",
+    "options": [
+      "Vâng bên em nghèo lắm",
+      "Dạ bù lại bên em dồn toàn bộ ngân sách vào việc mời Giảng viên xịn nhất và chất lượng giáo trình, đó mới là cốt lõi của việc học ạ",
+      "Cũ nhưng vẫn học được mà chị",
+      "Chị chê thì đi chỗ khác"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kỹ thuật 'Đánh lạc hướng sang điểm mạnh cốt lõi' (Focus on Core Value).",
+    "category": "Xử lý tình huống khó"
+  },
+  {
+    "id": 67,
+    "question": "Sale gọi điện cho Data (khách để lại SĐT) nhưng khách bắt máy gắt: 'Đang bận, gọi gì giờ này!'",
+    "options": [
+      "Cúp máy ngay lập tức",
+      "Dạ em xin lỗi chị, em thấy chị để lại thông tin quan tâm khóa tiếng Hàn, vậy 8h tối nay em gọi lại hỗ trợ chị nhé. Chúc chị buổi chiều vui vẻ!",
+      "Chửi lại khách",
+      "Cố gắng nói nhanh kịch bản trong 10 giây"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Xin lỗi lịch sự, chốt giờ gọi lại và chúc tốt lành thể hiện EQ cực cao của người làm Sale.",
+    "category": "Xử lý tình huống khó"
+  },
+  {
+    "id": 68,
+    "question": "Khách hỏi một câu chuyên môn tiếng Hàn cực khó mà Sale KHÔNG BIẾT, Sale nên:",
+    "options": [
+      "Lên Google tìm đại một câu trả lời sai",
+      "Dạ câu hỏi này rất hay, thuộc kiến thức chuyên sâu. Em xin phép note lại chuyển cho Thầy/Cô trưởng bộ môn giải đáp chi tiết và phản hồi chị ngay ạ!",
+      "Bơ luôn câu hỏi",
+      "Nói 'Em là Sale em không biết'"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sự thật thà kết hợp với việc nhờ chuyên gia hỗ trợ vừa giữ uy tín, vừa thể hiện quy trình làm việc chuyên nghiệp.",
+    "category": "Xử lý tình huống khó"
+  },
+  {
+    "id": 69,
+    "question": "Khách so sánh: 'Trung tâm kia cam kết bằng văn bản có mộc đỏ, bên em có không?'",
+    "options": [
+      "Bên em không có",
+      "Dạ có chứ ạ! Trung tâm em ký Hợp đồng đào tạo pháp lý đàng hoàng, có mộc đỏ công ty cam kết đầu ra rõ ràng cho chị luôn!",
+      "Bên em chỉ hứa miệng thôi",
+      "Mộc đỏ làm gì chị ơi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tính pháp lý (Mộc đỏ, Hợp đồng) là 'liều thuốc an thần' mạnh nhất để chốt các khóa học giá trị lớn.",
+    "category": "Xử lý tình huống khó"
+  },
+  {
+    "id": 70,
+    "question": "Kỹ năng quan trọng nhất để làm nghề Sale/Tư vấn giáo dục bền vững là gì?",
+    "options": [
+      "Chỉ biết giảm giá",
+      "Nói dối trơn tru",
+      "Lắng nghe chân thành, thấu hiểu nhu cầu và luôn đặt lợi ích học tập của học viên lên hàng đầu",
+      "Ép khách bằng mọi giá"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sale giáo dục là bán Tương lai. Chỉ có sự Chân thành và Giá trị thật mới tạo ra sự nghiệp bền vững.",
+    "category": "Xử lý tình huống khó"
+  },
+  {
+    "id": 71,
+    "question": "Khi học viên thi xong cuối khóa SC1, Tư vấn viên nên mở đầu tin nhắn như thế nào để tạo ấn tượng tốt nhất (Tình huống mở rộng)?",
+    "options": [
+      "Gửi ngay bảng học phí SC2 để chốt sale",
+      "Gửi điểm số đạt được, chúc mừng và khen ngợi sự cố gắng của học viên",
+      "Hỏi xem học viên có muốn học tiếp không",
+      "Im lặng chờ học viên tự liên hệ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Báo điểm kèm lời khen giúp học viên có cảm xúc tích cực, dễ dàng đón nhận các tư vấn tiếp theo."
+  },
+  {
+    "id": 72,
+    "question": "Nếu khách hàng báo bị trùng lịch học t2-4-6, cách xử lý KHÉO LÉO nhất là gì (Tình huống mở rộng)?",
+    "options": [
+      "Bảo khách khi nào rảnh thì học sau",
+      "Đưa ra ngay phương án lịch học t3-5-7 hoặc một khóa khai giảng khác phù hợp hơn",
+      "Xin lỗi khách và ngắt kết nối",
+      "Khuyên khách bỏ lịch cá nhân để học"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sale không bao giờ được bỏ cuộc. Khách bận lịch này phải lập tức offer lịch khác (3-5-7) hoặc giờ học khác."
+  },
+  {
+    "id": 73,
+    "question": "Để học viên có hứng thú đăng ký khóa tiếp theo (SC2), Tư vấn viên nên sử dụng mồi câu nào (Tình huống mở rộng)?",
+    "options": [
+      "Hứa hẹn học phí sẽ rẻ hơn nếu đóng ngay",
+      "Chỉ ra những hạn chế của SC1 và ép học SC2",
+      "Gửi Sổ tay từ vựng & ngữ pháp SC2 (dạng PDF) tặng trước để học viên tò mò",
+      "Đe dọa nếu không học sẽ quên kiến thức"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Tặng quà trước (tài liệu học) giúp kích thích sự tò mò và tạo giá trị trước khi chốt sale."
+  },
+  {
+    "id": 74,
+    "question": "Thay vì chỉ tư vấn một khóa lẻ tẻ (SC2), Tư vấn viên nên làm gì để tăng giá trị vòng đời học viên (Tình huống mở rộng)?",
+    "options": [
+      "Tư vấn lộ trình dài hạn (Combo SC2+SC3 hoặc SC2+Giao tiếp) kèm ưu đãi đặc biệt",
+      "Chỉ tập trung chốt SC2 cho nhanh",
+      "Khuyên học viên tự học ở nhà",
+      "Chờ học viên tự hỏi về lộ trình dài hạn"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Upsell combo giúp tăng doanh thu và mang lại cam kết học tập dài hạn cho học viên."
+  },
+  {
+    "id": 75,
+    "question": "Yếu tố nào giúp chốt sale hiệu quả trong lúc khách hàng đang do dự (Tình huống mở rộng)?",
+    "options": [
+      "Thúc giục liên tục",
+      "Tạo sự khan hiếm (ví dụ: chỉ còn 2 slot ưu đãi, ưu đãi kết thúc trong hôm nay)",
+      "Bỏ qua và tìm khách khác",
+      "Giảm giá vô tội vạ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tạo sự khan hiếm là kỹ năng chốt sale kinh điển giúp thúc đẩy quyết định của khách hàng."
+  },
+  {
+    "id": 76,
+    "question": "Trong quá trình học viên đang học (sắp kết khóa), hành động nào của Tư vấn viên thể hiện sự quan tâm chuyên nghiệp (Tình huống mở rộng)?",
+    "options": [
+      "Không nhắn tin gì để tránh làm phiền",
+      "Nhắn tin hỏi thăm tình hình học tập, vướng mắc để hỗ trợ kịp thời",
+      "Chỉ nhắn tin khi cần thu học phí",
+      "Chờ giáo viên báo cáo rồi mới xử lý"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chăm sóc khách hàng chủ động giúp tăng độ hài lòng và tỷ lệ đăng ký khóa tiếp theo."
+  },
+  {
+    "id": 77,
+    "question": "Để thủ tục đăng ký chuyên nghiệp và gọn gàng, Tư vấn viên cần gửi những gì cho học viên (Tình huống mở rộng)?",
+    "options": [
+      "Chỉ gửi số tài khoản",
+      "Gửi form đăng ký, thông tin chuyển khoản và hướng dẫn chi tiết",
+      "Yêu cầu học viên tự lên website tìm hiểu",
+      "Gọi điện thoại nói miệng"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Thông tin rõ ràng, đầy đủ giúp học viên dễ dàng thực hiện thao tác và thấy được sự chuyên nghiệp."
+  },
+  {
+    "id": 78,
+    "question": "Khi yêu cầu học viên chuyển khoản, Tư vấn viên cần cung cấp thông tin gì rõ ràng nhất (Tình huống mở rộng)?",
+    "options": [
+      "Chỉ cần tên ngân hàng",
+      "Số tài khoản, tên chủ tài khoản, ngân hàng và cú pháp chuyển khoản chính xác",
+      "Số tiền cần chuyển",
+      "Tên chi nhánh ngân hàng"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cú pháp và thông tin chính xác giúp trung tâm dễ dàng đối soát và tránh sai sót."
+  },
+  {
+    "id": 79,
+    "question": "Học viên phản hồi là link bài test bị LỖI không mở được, Tư vấn viên nên:",
+    "options": [
+      "Bảo học viên tự kiểm tra lại mạng",
+      "Xin lỗi, kiểm tra lại link ngay lập tức và gửi link mới hoặc hướng dẫn cách mở",
+      "Đổ lỗi cho bộ phận kỹ thuật",
+      "Bỏ qua tin nhắn"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Xử lý sự cố nhanh chóng, nhận trách nhiệm và đưa ra giải pháp là thái độ CSKH chuyên nghiệp."
+  },
+  {
+    "id": 80,
+    "question": "Việc gửi 'Sổ tay từ vựng & ngữ pháp SC2' dưới định dạng PDF cho học viên trước khi họ đăng ký có tác dụng gì (Tình huống mở rộng)?",
+    "options": [
+      "Để học viên tự học không cần đăng ký",
+      "Tạo giá trị gia tăng, kích thích sự tò mò và mong muốn học tiếp",
+      "Làm đầy bộ nhớ điện thoại của học viên",
+      "Giảm bớt công việc tư vấn của Sale"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Quà tặng tài liệu là mồi câu tuyệt vời để duy trì sự hứng thú học tập của học viên."
+  },
+  {
+    "id": 81,
+    "question": "Khách hàng chê học phí cao, Tư vấn viên nên phản hồi thế nào (Tình huống mở rộng)?",
+    "options": [
+      "Đồng tình và giảm giá ngay lập tức",
+      "Nhấn mạnh vào giá trị, chất lượng giảng dạy và cam kết đầu ra để so sánh",
+      "Bảo khách đi tìm trung tâm khác rẻ hơn",
+      "Không trả lời nữa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Luôn tập trung vào giá trị mang lại (Value) thay vì chạy đua về giá (Price).",
+    "category": "Xử lý từ chối về giá"
+  },
+  {
+    "id": 82,
+    "question": "Khi khách hàng nói 'Để chị suy nghĩ thêm vì hơi quá ngân sách', cách xử lý tốt nhất là (Tình huống mở rộng)?",
+    "options": [
+      "Vâng, chị cứ suy nghĩ đi ạ",
+      "Chia nhỏ học phí, tư vấn trả góp hoặc đưa ra ưu đãi giới hạn thời gian",
+      "Hỏi thẳng khách có bao nhiêu tiền",
+      "Tỏ thái độ khó chịu"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chia nhỏ học phí (VD: trả góp) giúp giảm áp lực tài chính cho khách.",
+    "category": "Xử lý từ chối về giá"
+  },
+  {
+    "id": 83,
+    "question": "Khách hỏi 'Bên em có giảm giá thêm không (Tình huống mở rộng)?', Tư vấn viên đáp:",
+    "options": [
+      "Dạ không, bên em giá niêm yết rồi",
+      "Dạ học phí bên em đã ưu đãi tốt nhất rồi, nhưng nếu anh/chị đăng ký hnay em tặng thêm bộ tài liệu độc quyền",
+      "Dạ có, em bớt thêm 500k nhé",
+      "Để em hỏi sếp đã"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Thay vì giảm giá trực tiếp làm giảm giá trị khóa học, hãy dùng quà tặng (Add-on) để chốt sale.",
+    "category": "Xử lý từ chối về giá"
+  },
+  {
+    "id": 84,
+    "question": "Nếu khách hàng so sánh giá với trung tâm A (rẻ hơn), Tư vấn viên nên làm gì (Tình huống mở rộng)?",
+    "options": [
+      "Nói xấu trung tâm A",
+      "Phân tích sự khác biệt về sĩ số, chất lượng giáo viên và quyền lợi bảo lưu/học lại của Hi Korean",
+      "Giảm giá để cạnh tranh với trung tâm A",
+      "Im lặng"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Làm nổi bật USP (Unique Selling Proposition) của Hi Korean là cách tốt nhất để vượt qua so sánh giá.",
+    "category": "Xử lý từ chối về giá"
+  },
+  {
+    "id": 85,
+    "question": "Khách hàng báo 'Tháng này kẹt tiền quá, tháng sau đăng ký được không (Tình huống mở rộng)?', Tư vấn viên xử lý:",
+    "options": [
+      "Vâng tháng sau chị đăng ký nhé",
+      "Dạ vâng, nhưng chị có thể cọc trước 500k để giữ ưu đãi của tháng này, tháng sau học phí có thể tăng ạ",
+      "Vậy chị vay mượn thêm đi",
+      "Không sao, bao giờ có tiền thì học"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chốt cọc giữ chỗ là kỹ thuật rất quan trọng để tránh mất khách vào tháng sau.",
+    "category": "Xử lý từ chối về giá"
+  },
+  {
+    "id": 86,
+    "question": "Tư vấn viên nên làm gì khi khách chê mức cọc 1 triệu là quá cao (Tình huống mở rộng)?",
+    "options": [
+      "Hạ mức cọc xuống tùy tâm khách",
+      "Giải thích rõ đây là quy định để giữ slot và mức ưu đãi cực lớn, tiền cọc sẽ được trừ thẳng vào học phí",
+      "Hủy luôn không cho khách cọc nữa",
+      "Bảo khách cọc 2 triệu"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cần giải thích rõ quyền lợi gắn liền với số tiền cọc để khách yên tâm.",
+    "category": "Xử lý từ chối về giá"
+  },
+  {
+    "id": 87,
+    "question": "Khi tư vấn Combo dài hạn, khách sợ đóng một cục nhiều tiền, Tư vấn viên có thể đề xuất gì (Tình huống mở rộng)?",
+    "options": [
+      "Bảo khách đóng từng khóa một (không áp dụng ưu đãi combo)",
+      "Đề xuất chính sách trả góp 0% qua thẻ tín dụng hoặc chia làm 2 đợt đóng",
+      "Khuyên khách vay ngân hàng",
+      "Ép khách phải đóng 1 cục"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cung cấp giải pháp thanh toán linh hoạt giúp tăng tỷ lệ chốt các khóa giá trị cao (High-ticket).",
+    "category": "Xử lý từ chối về giá"
+  },
+  {
+    "id": 88,
+    "question": "Tại sao không nên báo giá ngay khi khách vừa nhắn tin 'Học phí bao nhiêu' (Tình huống mở rộng)?",
+    "options": [
+      "Vì sợ khách chê đắt chạy mất",
+      "Vì cần phải tìm hiểu trình độ, mục tiêu và tư vấn lộ trình phù hợp trước để khách thấy được giá trị",
+      "Vì quy định công ty cấm",
+      "Vì Sale chưa nhớ giá"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nguyên tắc Sale: Luôn tạo ra Giá Trị trước khi đưa ra Giá Cả.",
+    "category": "Xử lý từ chối về giá"
+  },
+  {
+    "id": 89,
+    "question": "Khách nói 'Giá rẻ nhỉ, chất lượng có đảm bảo không (Tình huống mở rộng)?', Tư vấn viên cần trả lời:",
+    "options": [
+      "Dạ tiền nào của nấy ạ",
+      "Dạ mức giá này là do bên em đang có ưu đãi lớn tri ân học viên, chất lượng cam kết bằng văn bản hợp đồng ạ",
+      "Dạ vâng chất lượng bình thường thôi ạ",
+      "Anh/chị yên tâm đi, không sao đâu"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Phải dùng cam kết hợp đồng để đập tan sự nghi ngờ về chất lượng khi có giá rẻ.",
+    "category": "Xử lý từ chối về giá"
+  },
+  {
+    "id": 90,
+    "question": "Một trong những sai lầm lớn nhất khi khách chê đắt là gì (Tình huống mở rộng)?",
+    "options": [
+      "Tiếp tục giải thích giá trị khóa học",
+      "Ngay lập tức tụt năng lượng và cho rằng khách không có tiền thật",
+      "Chuyển hướng sang tư vấn gói học bổng/trả góp",
+      "Đồng cảm với khách"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Giữ vững năng lượng và niềm tin vào sản phẩm là yếu tố tiên quyết của một người Sale giỏi.",
+    "category": "Xử lý từ chối về giá"
+  },
+  {
+    "id": 91,
+    "question": "Đâu là tín hiệu mua hàng (Buying signal) từ khách hàng (Tình huống mở rộng)?",
+    "options": [
+      "Khách seen không rep",
+      "Khách hỏi 'Học phí này đã bao gồm giáo trình chưa em?'",
+      "Khách bảo 'Trung tâm em xa quá'",
+      "Khách chê logo trung tâm xấu"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Khi khách hỏi sâu về chi tiết quyền lợi (giáo trình, lịch học), đó là tín hiệu họ đã sẵn sàng mua.",
+    "category": "Kỹ năng chốt sale"
+  },
+  {
+    "id": 92,
+    "question": "Kỹ thuật 'Chốt giả định' (Assumptive Close) là như thế nào (Tình huống mở rộng)?",
+    "options": [
+      "Hỏi khách 'Chị có mua không?'",
+      "Hỏi khách 'Vậy chị chuyển khoản qua Vietcombank hay Techcombank để em làm hồ sơ ạ?'",
+      "Giả định khách không mua và bỏ qua",
+      "Bảo khách suy nghĩ thêm"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Đưa ra câu hỏi lựa chọn phương thức thanh toán thay vì câu hỏi Có/Không.",
+    "category": "Kỹ năng chốt sale"
+  },
+  {
+    "id": 93,
+    "question": "Khi khách hàng đã đồng ý học, việc tiếp theo Tư vấn viên NÊN làm NGAY LẬP TỨC là gì (Tình huống mở rộng)?",
+    "options": [
+      "Gửi mã QR/STK và hướng dẫn cú pháp chuyển khoản rõ ràng",
+      "Tâm sự tiếp chuyện đời tư với khách",
+      "Đi pha cốc cà phê rồi tí gửi STK sau",
+      "Hỏi lại 'Chị chắc chắn học chứ?'"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Khi cảm xúc khách đang lên cao, phải đưa ra Call to Action (Gửi STK) ngay lập tức.",
+    "category": "Kỹ năng chốt sale"
+  },
+  {
+    "id": 94,
+    "question": "Khách bảo 'Để chị hỏi ý kiến chồng đã', Tư vấn viên nên phản hồi thế nào để không bị mất khách (Tình huống mở rộng)?",
+    "options": [
+      "Vâng chị hỏi đi ạ",
+      "Dạ vâng, tiện thể em gửi chị bảng chi tiết lộ trình để chị đưa anh xem nhé. Khoảng tối mai em nhắn lại chị nha!",
+      "Chồng chị chắc không cho đâu",
+      "Chị tự quyết định đi chứ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cung cấp thêm tài liệu để khách dễ bề thuyết phục người nhà, đồng thời chốt lịch hẹn liên lạc lại.",
+    "category": "Kỹ năng chốt sale"
+  },
+  {
+    "id": 95,
+    "question": "Làm thế nào để tạo ra sự khẩn cấp (Urgency) mà không phản cảm (Tình huống mở rộng)?",
+    "options": [
+      "'Nhanh lên chị, không là hết hạn đấy'",
+      "'Dạ hiện lớp tối t2-4-6 chỉ còn đúng 2 slot nhận ưu đãi giảm 30%, chị chốt sớm để em giữ chỗ nhé'",
+      "'Chị không đóng tiền là em bị sếp mắng'",
+      "'Em xin chị đấy đăng ký đi'"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Đưa ra con số cụ thể (chỉ còn 2 slot) kèm theo lợi ích (ưu đãi 30%) tạo sự khẩn cấp rất tự nhiên.",
+    "category": "Kỹ năng chốt sale"
+  },
+  {
+    "id": 96,
+    "question": "Nếu gọi điện thoại chốt sale (Telesale), giọng điệu của Tư vấn viên nên như thế nào (Tình huống mở rộng)?",
+    "options": [
+      "Thều thào, nói nhỏ vì sợ phiền",
+      "Tràn đầy năng lượng, tự tin, phát âm rõ ràng và mỉm cười khi nói",
+      "Gắt gỏng, nói nhanh cho xong",
+      "Giọng đều đều như đọc kịch bản"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Năng lượng của Sale sẽ truyền sang khách hàng. Mỉm cười khi nói giúp giọng điệu thân thiện hơn.",
+    "category": "Kỹ năng chốt sale"
+  },
+  {
+    "id": 97,
+    "question": "Khi khách hàng đang trong trạng thái 'Seen' quá 24h, Tư vấn viên nên làm gì (Tình huống mở rộng)?",
+    "options": [
+      "Bơ luôn khách",
+      "Nhắn một tin nhắn follow-up thả thính: 'Dạ chị Yến ơi, hôm qua em có chừa lại 1 suất ưu đãi cho chị, không biết chị đã thu xếp được chưa ạ?'",
+      "Nhắn dấu chấm '?'",
+      "Chửi khách sao không rep"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Follow-up khéo léo bằng cách nhắc lại ưu đãi và thể hiện sự quan tâm đặc biệt (chừa lại suất).",
+    "category": "Kỹ năng chốt sale"
+  },
+  {
+    "id": 98,
+    "question": "Tư vấn viên có nên cam kết những thứ không có trong chính sách trung tâm để chốt khách không (Tình huống mở rộng)?",
+    "options": [
+      "Có, chốt được là trên hết",
+      "Tuyệt đối KHÔNG, chỉ cam kết những gì trung tâm có thể thực hiện được bằng văn bản",
+      "Chỉ hứa miệng, không ghi vào hợp đồng",
+      "Tùy tâm trạng"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cam kết quá lố (Over-promise) sẽ dẫn đến khủng hoảng CSKH sau này. Chỉ bán sự thật.",
+    "category": "Kỹ năng chốt sale"
+  },
+  {
+    "id": 99,
+    "question": "Kỹ thuật 'Chốt đảo ngược' (Takeaway Close) thường áp dụng khi nào (Tình huống mở rộng)?",
+    "options": [
+      "Khi khách vừa nhắn tin",
+      "Khi khách quá nhây, đòi hỏi vô lý: 'Nếu chị không quyết định sớm, suất ưu đãi này em xin phép nhường cho bạn khác đang chờ ạ'",
+      "Khi khách đã chuyển khoản",
+      "Khi khách mới hỏi giá"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lấy đi cơ hội của khách sẽ kích hoạt tâm lý 'Sợ bỏ lỡ' (FOMO) của họ.",
+    "category": "Kỹ năng chốt sale"
+  },
+  {
+    "id": 100,
+    "question": "Mục đích của việc gọi điện cho khách thay vì nhắn tin khi chốt sale là gì (Tình huống mở rộng)?",
+    "options": [
+      "Đỡ mỏi tay gõ phím",
+      "Truyền đạt cảm xúc tốt hơn, giải quyết thắc mắc ngay lập tức và đẩy cảm xúc khách hàng lên cao",
+      "Để chửi khách dễ hơn",
+      "Vì quy định trung tâm"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Giọng nói mang lại cảm xúc mạnh mẽ hơn văn bản, giúp phá băng và chốt sale tỷ lệ cao hơn.",
+    "category": "Kỹ năng chốt sale"
+  }
+]
